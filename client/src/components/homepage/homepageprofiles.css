@@ -1,0 +1,40 @@
+.profile-navbar {
+    align-items: center;
+}
+
+.profile-image {
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.requiredprofile-top {
+    display: flex;
+}
+
+.rprofile-posts {
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.rnumposts {
+    margin-bottom: 3px;
+}
+.rnum-posts {
+    margin-top: 0px;
+}
+
+.dddd {
+    margin-left: 130px;
+}
+
+.rprofile-bio {
+    margin-top: 0px;
+}
+.rprofile-followingbox {
+    margin-top: 30px;
+    margin-right: 910px;
+    padding: 10px 30px;
+    border: 1px solid gray;
+    border-radius: 4%;
+}

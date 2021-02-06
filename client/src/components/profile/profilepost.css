@@ -1,0 +1,50 @@
+.post-navbar {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-h1 {
+    margin-left: 20px;
+}
+
+.profile-image {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+.post-head {
+    display: flex;
+}
+
+.user-nname {
+    margin-left: 15px;
+}
+
+.required-image {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 650px;
+    height: 500px;
+}
+
+.svgs-div {
+    margin-top: 15px;;
+    margin-left: 50px;
+}
+
+.required-likes {
+    margin-bottom: 0px;
+}
+.post-bottom {
+    margin-top: 1px;
+    display: flex;
+}
+
+.required-text {
+    margin-left: 10px;
+}
+
+.required-comments{
+    margin-top: 0px;
+}

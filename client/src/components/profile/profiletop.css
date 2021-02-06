@@ -1,0 +1,49 @@
+
+.container2 {
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    background-image: url('//www.gravatar.com/avatar/3e097231087a5d27eee33eff52062b9d?s=200&r=pg&d=mm');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+}
+.div3 {
+    margin-left: 120px;
+    margin-right: 60px;
+    background-color: grey;
+}
+
+.divv {
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+.div2 {
+    display: flex;
+    justify-content: space-around;
+}
+.H3 {
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+    text-decoration: black;
+}
+.dark{
+    margin-top: 20px;
+    background-color: black;
+    margin-left: 450px;
+    width: 750px
+}
+.boldd {
+    font-weight: bold;
+    text-decoration: white;
+}
+.image {
+    width: 400px;
+    height: 200px;
+}
+.div4 {
+    display: flex;
+}

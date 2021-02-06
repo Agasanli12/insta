@@ -1,0 +1,114 @@
+.follow-requests {
+    display: flex;
+    align-items: center;
+}
+
+.requests-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.requests-image {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-right: 20px;
+}
+
+.requests-length {
+    position: absolute;
+    top: 68px;
+    left: 250px;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    background-color: red;
+    border-radius: 50%;
+
+}
+
+.requests-avatar {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-right: 20px;
+}
+
+.request-activity {
+    display: flex;
+    align-items: center;
+}
+
+.activity-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: 1px solid black;
+}
+
+.confirm-button {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15%;
+    background-color: blue;
+}
+
+.delete-button {
+    color: black;
+    padding: 10px 20px;
+    border-radius: 15%;
+    background-color: white;
+}
+
+.comment-activity {
+    display: flex;
+    align-items: center;
+}
+
+.comment-image {
+    width: 60px;
+    height: 60px;
+}
+
+.name-margin {
+    margin-right: 15px;
+}
+
+.suggestion {
+    display: flex;
+    align-items: center;
+}
+
+.suggestion-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.suggestion-details {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.suggestion-detail {
+    padding-top: 15px;
+    margin-bottom: 0px;
+}
+
+.suggestion-button {
+    color: white;
+    background-color: blue;
+    border-radius: 10%;
+    padding: 10px 15px;
+    margin-right: 15px;
+}
+

@@ -1,0 +1,105 @@
+.directs-head {
+    display: flex;
+    align-items: center;
+}
+.directs {
+    display: flex;
+    align-items: center;
+
+}
+.directuser-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;;
+}
+.directuser-details {
+    display: flex;
+    flex-direction: column;
+}
+.directuser-name {
+    margin-bottom: 5px;
+}
+.direct-lasttext {
+    margin-top: 0px;
+}
+.directs-search {
+    display: flex;
+    align-items: center;
+    border: 1px solid gray;
+}
+.directs-input {
+    
+    border-radius: 2%;
+    width: 400px;
+    height: 40px;
+}
+.directs-searchicon {
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+.direct-head {
+    top: 0;
+    position: fixed;    
+}
+.messages {
+    bottom: 45px;
+    position: fixed;
+}
+
+.sending-text {
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    justify-content: flex-end;
+    width: fit-content;
+    padding: 5px 10px;
+    margin-left: 300px;
+}
+.received-text{
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    justify-content: flex-start;
+    width: fit-content;
+    padding: 5px 10px;
+}
+.direct-input {
+    bottom: 0;
+    position: fixed;
+    padding: 10px 200px 10px;
+    padding-left: 30px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+
+
+
+
+
+.searchfollows-head {
+    display: flex;
+    align-items: center;
+}
+.searchfollows-details {
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.searchfollows-image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+    margin-top: 10px;
+}

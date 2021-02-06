@@ -1,0 +1,19 @@
+
+.loginn {
+    margin-top: 250px;
+    margin-top: 50px;
+    margin-left: 310px;
+    padding-left: 50px;
+    padding-right: 20px;;
+    padding-bottom: 150px;
+    align-items: center;
+    justify-content: right;
+    background-color: white;
+    border: 1px solid gray;
+    width: 30%;
+    height: 100%;
+
+}
+.image{
+    width: 200px;
+}

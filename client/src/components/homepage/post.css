@@ -1,0 +1,63 @@
+.postdiv {
+    margin-bottom: 30px;
+}
+.divv3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.divv2 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 20px;
+}
+.imgg {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+.H2 {
+    margin-left: 15px;
+}
+.immg {
+    margin-top: 50px;
+    width: 1200px;
+    height: 600px;
+    margin-left: 100px;
+}
+.svgdiv2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.svgdiv {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.direct2 {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.likes {
+    margin-left: 15px;
+}
+.boldd {
+    font-size: 4rem;
+}
+.fontclass {
+    margin-left: 20px;
+    text-decoration: gray ;
+}
+
+.like-icon {
+    width: 60px;
+    height: 60px;
+}
+.like-button {
+    border: 0px ;
+    background-color: white;
+}

@@ -1,0 +1,86 @@
+.comments-head {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.post-details {
+    display: flex;
+    align-items: center;
+}
+.text-avatar {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+.postuser-name {
+    margin-right: 10px;
+}
+.comments-flex {
+    display: flex;
+    flex-direction: column;
+}
+.comments-details {
+    display: flex;
+    align-items: center;
+}
+.comments-text {
+    margin-left: 10px;
+}
+.input-of-comment {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    margin-right:400px
+}
+.comment-input {
+    flex: 1;
+    padding-right: 400px;
+}
+.post-comment{
+    color: blue;
+}
+.reply-button {
+    margin-left:0px;
+    border: none;
+    background-color: white;
+}
+.comment-of-comment {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.likes-details {
+    display: flex;
+    align-items: center;
+
+}
+.likeduser-follow {
+    margin-left: 300px;
+    padding: 10px 15px;
+    color: white;
+    background-color: blue;
+    border-radius: 5%;
+}
+
+.likeduser-following {
+    margin-left: 300px;
+    padding: 10px 15px;
+    color: black;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5%;
+}
+.like-comment {
+    background-color: white;
+    width: 45px;
+    height: 30px;
+    margin-left: 0px;
+}
+.liketocomment-button {
+    margin-left: 290px;
+    background-color: white;
+    border: 1px solid white;
+}

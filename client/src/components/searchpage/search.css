@@ -1,0 +1,27 @@
+.images {
+    display: flex;
+}
+
+.search-icon {
+    width: 40px;
+    height: 40px;
+}
+
+.search-text {
+    margin-left: 20px;
+}
+
+.searchpage-navbar {
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    padding: 5px 15px;
+}
+.searchimage {
+    width: 200px;
+    height: 150px
+}
+.link {
+    text-decoration: black;
+}
+
